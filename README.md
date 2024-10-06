@@ -24,8 +24,8 @@ I used github codespace for development, if you are doing the same. then,
 
 ## Images Sample
 
-![Image 1](raw/a-hubble-cosmic-couple_20140593234_o_orig.jpg)
+![Image 1](PIA22564_small.jpg)
 
-![Image 2](raw/PIA14885_large.jpg)
+![Image 2](PIA18010_large.jpg)
 
 ![Image 3](raw/GSFC_20171208_Archive_e000409_orig.jpg)
