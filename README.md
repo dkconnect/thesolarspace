@@ -8,6 +8,14 @@
 
 - This repository contains a collection of mages computed from various images in NASA's gallery. The images have been processed to create sub-images that maintain high quality while allowing for easier analysis and usage in applications.
 
+## Images Sample
+
+![Image 1](PIA22564_small.jpg)
+
+![Image 2](PIA18010_large.jpg)
+
+![Image 3](PIA23127_large.jpg)
+
 ## Getting Started
 
 The code might need some update if you are running it after 2024, because of the updates.
@@ -22,10 +30,3 @@ I used github codespace for development, if you are doing the same. then,
 
 3. recommend you to create a raw and compute directory before running
 
-## Images Sample
-
-![Image 1](PIA22564_small.jpg)
-
-![Image 2](PIA18010_large.jpg)
-
-![Image 3](PIA23127_large.jpg)
