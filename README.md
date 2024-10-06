@@ -28,4 +28,4 @@ I used github codespace for development, if you are doing the same. then,
 
 ![Image 2](PIA18010_large.jpg)
 
-![Image 3](raw/GSFC_20171208_Archive_e000409_orig.jpg)
+![Image 3](PIA23127_large.jpg)
